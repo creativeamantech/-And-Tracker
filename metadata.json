@@ -1,0 +1,6 @@
+{
+  "name": "Vikaar & Good Deed Tracker",
+  "description": "Google Sheets-backed tracker for daily vikaar and good deeds in Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
